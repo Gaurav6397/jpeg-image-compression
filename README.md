@@ -10,3 +10,5 @@ decoding_image.py : applying the same  in reverse order.
 zigzag.py : this is used while perfomring RLE(run length encoding)
 
 this is lossy compression as while performing Quantization step some data is lossed which cannot be retrived in the reverse step.
+
+zigzag.py has been taken from: <a href = "https://github.com/amzhang1/simple-JPEG-compression">https://github.com/amzhang1/simple-JPEG-compression</a>
